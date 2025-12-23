@@ -1,6 +1,3 @@
-# aws-production-architecture
-Production-style AWS infrastructure showcasing a secure, multi-AZ architecture using VPC, private subnets, Auto Scaling Groups, Application Load Balancer, NAT Gateways, Bastion Host, Jenkins, and a Python web application, with monitored traffic flow and high availability
-
 # AWS Production-Style Infrastructure with Jenkins & Auto Scaling
 
 This repository demonstrates a **production-grade AWS architecture** designed and implemented using real-world cloud and DevOps best practices.  
